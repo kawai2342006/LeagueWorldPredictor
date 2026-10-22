@@ -1,0 +1,4656 @@
+{
+  "schemaVersion": 1,
+  "snapshotVersion": 2026102101,
+  "publishedAt": "2026-10-21T08:06:23.870Z",
+  "sources": {
+    "dpm": {
+      "source": "DPM.LOL",
+      "sourceUrl": "https://dpm.lol/esports/stats/players",
+      "fetchedAt": "2026-10-21T08:06:23.870Z",
+      "period": "近 3 個月 · 擷取當日滾動窗口",
+      "minGames": 10
+    },
+    "gpr": {
+      "source": "Riot GPR",
+      "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current",
+      "fetchedAt": null,
+      "asOf": "2026-10-19",
+      "period": "來源 2026-10-19 GPR 窗口"
+    }
+  },
+  "teams": {
+    "GEN": {
+      "code": "GEN",
+      "name": "Gen.G",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/fe/fed666df626151e4deb72562e1c1206221ba3a08e053b18c39fb3541b53df815.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1151-geng",
+      "gpr": {
+        "rank": 2,
+        "score": 1519,
+        "wins": 33,
+        "losses": 9,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "IG": {
+      "code": "IG",
+      "name": "Invictus Gaming",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/37/377fdc2aed72f698cf69ddfae6d7dea52fa25dca9f5c03e0c9fe9e50c2ae3c91.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/30-invictus-gaming",
+      "gpr": {
+        "rank": 15,
+        "score": 1348,
+        "wins": 18,
+        "losses": 25,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "TL": {
+      "code": "TL",
+      "name": "Team Liquid",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/1a/1a17d862e6f2a5cfb7b2cfe695ac92f2ff6a696cdb633d78c092d86d0a34a896.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/616-team-liquid",
+      "gpr": {
+        "rank": 11,
+        "score": 1369,
+        "wins": 22,
+        "losses": 10,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "CFO": {
+      "code": "CFO",
+      "name": "CTBC Flying Oyster",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/81/817f98ad032538ae09e86b6587d5f8959eaa55635439436a67af972402c016d0.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/2482-ctbc-flying-oyster",
+      "gpr": {
+        "rank": 20,
+        "score": 1314,
+        "wins": 12,
+        "losses": 14,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "AL": {
+      "code": "AL",
+      "name": "Anyone's Legend",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/df/df15bd483f88b8554a4f66720465c6860ed6b7fab73d726ffdf0dd9870eeea87.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1182-anyones-legend",
+      "gpr": {
+        "rank": 7,
+        "score": 1409,
+        "wins": 32,
+        "losses": 18,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "KC": {
+      "code": "KC",
+      "name": "Karmine Corp",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/ae/aea0a85631116aa2a6c90efbcd0ac3cb39a354cbc46d274341c3fd505c1b54d8.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1858-karmine-corp",
+      "gpr": {
+        "rank": 7,
+        "score": 1409,
+        "wins": 36,
+        "losses": 13,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "G2": {
+      "code": "G2",
+      "name": "G2 Esports",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/d9/d94a0ac7fb371cb711f9622fdff60d5cb6b9122798e7c53ed0a94c0f5692c151.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/405-g2-esports",
+      "gpr": {
+        "rank": 4,
+        "score": 1480,
+        "wins": 33,
+        "losses": 15,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "DK": {
+      "code": "DK",
+      "name": "Dplus Kia",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/15/15202c9459f67bf4d233db5c0bc7b28057ef70e999e2b07f2eeea3783ea8205b.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1053-dplus-kia",
+      "gpr": {
+        "rank": 7,
+        "score": 1409,
+        "wins": 27,
+        "losses": 16,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "HLE": {
+      "code": "HLE",
+      "name": "Hanwha Life Esports",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/b5/b525ea77b187e63db1a47d1f0aff7ff3f92df15f069f6bac935d263817f54590.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/576-hanwha-life-esports",
+      "gpr": {
+        "rank": 1,
+        "score": 1540,
+        "wins": 28,
+        "losses": 13,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "TES": {
+      "code": "TES",
+      "name": "Top Esports",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/da/da295207655af41820cbbfd7d476be6b3c8142f09b3b3eb42a9eb57d58596f4e.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1183-top-esports",
+      "gpr": {
+        "rank": 13,
+        "score": 1364,
+        "wins": 27,
+        "losses": 24,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "LOS": {
+      "code": "LOS",
+      "name": "LØS",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/f1/f1ab2cf8b73ffbc34cbc41aaddebaffc0d5d265b3497ce50ea597dac49b2847c.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1130-ls",
+      "gpr": {
+        "rank": 39,
+        "score": 1183,
+        "wins": 23,
+        "losses": 9,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "T1": {
+      "code": "T1",
+      "name": "T1",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/c2/c225140b0c0160c3c63e93c40f24842170b4dd0cf64d3e910df8b6b37edf9bcf.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/211-t1",
+      "gpr": {
+        "rank": 5,
+        "score": 1471,
+        "wins": 29,
+        "losses": 16,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "TSW": {
+      "code": "TSW",
+      "name": "Team Secret Whales",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/b1/b1df889c7fc35682e9958865767dc5d507aed3e4a65b36fe6565c7fb7c46bffe.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/3072-team-secret-whales",
+      "gpr": {
+        "rank": 12,
+        "score": 1368,
+        "wins": 26,
+        "losses": 6,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "LYON": {
+      "code": "LYON",
+      "name": "LYON",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/5a/5a7a5a3064f5c2066bb2981207b31271055ac7d2bdf5e2d4f0183334a54d0ef2.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/3061-lyon",
+      "gpr": {
+        "rank": 6,
+        "score": 1424,
+        "wins": 25,
+        "losses": 11,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "BLG": {
+      "code": "BLG",
+      "name": "Bilibili Gaming",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/d5/d5ad894080f8cfee5c41a2c28fa7bb5cafbe6c203963b76e6dc2d46987654962.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/1181-bilibili-gaming",
+      "gpr": {
+        "rank": 3,
+        "score": 1513,
+        "wins": 48,
+        "losses": 11,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    },
+    "MKOI": {
+      "code": "MKOI",
+      "name": "Movistar KOI",
+      "logo": "https://assets.dpm.lol/team-assets/sha256/77/77c15a5bbd2055bdc8d07f41fe72428a9433f2a6aea31c73baa984f25b13a654.png",
+      "dpmUrl": "https://dpm.lol/esports/teams/747-movistar-koi",
+      "gpr": {
+        "rank": 17,
+        "score": 1322,
+        "wins": 22,
+        "losses": 18,
+        "date": "2026-10-19",
+        "sourceUrl": "https://lolesports.com/zh-TW/gpr/2026/current"
+      }
+    }
+  },
+  "datasets": {
+    "dpm": {
+      "id": "dpm",
+      "label": "近 3 個月 · DPM.LOL 快照",
+      "players": [
+        {
+          "id": "dpm:7e5c7b74-ffe3-5dd7-a3d3-942e78fc3219",
+          "name": "Chovy",
+          "team": "GEN",
+          "role": "MID",
+          "games": 29,
+          "wins": 20,
+          "winRate": 69,
+          "kills": 3.72,
+          "deaths": 2.03,
+          "assists": 6.21,
+          "firstGame": "2026-07-31",
+          "lastGame": "2026-09-13",
+          "timelineGames": 29,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/22/222b686aaea3502ea89a792276bafc914c776dd299d5f528116b3fd0b1c9a337.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7112-chovy",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.88,
+            "csm": 9.84,
+            "gpm": 437.11,
+            "dpm": 622.61,
+            "damageShare": 25,
+            "gd15": 206,
+            "csd15": 13.1,
+            "xpd15": 409,
+            "kp": 66.4,
+            "vision": 1.66
+          },
+          "champions": [
+            {
+              "name": "Ryze",
+              "games": 8,
+              "wins": 5
+            },
+            {
+              "name": "Galio",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Syndra",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Akali",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:17cc4bbd-31a4-5d34-9183-f5183c88521d",
+          "name": "Duro",
+          "team": "GEN",
+          "role": "SUP",
+          "games": 29,
+          "wins": 20,
+          "winRate": 69,
+          "kills": 0.55,
+          "deaths": 2.31,
+          "assists": 11.17,
+          "firstGame": "2026-07-31",
+          "lastGame": "2026-09-13",
+          "timelineGames": 29,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/78/7819f9b1360b0b50480d01e30943bc931fbbce92ebc7f0fad22c55b9c9aa1817.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/15199-duro",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.07,
+            "csm": 0.87,
+            "gpm": 263.38,
+            "dpm": 173.43,
+            "damageShare": 7.000000000000001,
+            "gd15": -74,
+            "csd15": -8.45,
+            "xpd15": -94,
+            "kp": 78.3,
+            "vision": 4.35
+          },
+          "champions": [
+            {
+              "name": "Seraphine",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Renata Glasc",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Shen",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Lulu",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:64c347b1-9669-593c-8cd6-8ae371dfc9d6",
+          "name": "Kiin",
+          "team": "GEN",
+          "role": "TOP",
+          "games": 29,
+          "wins": 20,
+          "winRate": 69,
+          "kills": 3.55,
+          "deaths": 2.66,
+          "assists": 5.34,
+          "firstGame": "2026-07-31",
+          "lastGame": "2026-09-13",
+          "timelineGames": 29,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/13/1390568d92039ff7600f93c80934e0718f74adb7c45ec6694c05310ac908362f.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/6697-kiin",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.35,
+            "csm": 8.36,
+            "gpm": 401.27,
+            "dpm": 552.51,
+            "damageShare": 22.2,
+            "gd15": 264,
+            "csd15": 2.52,
+            "xpd15": 159,
+            "kp": 59.4,
+            "vision": 1.38
+          },
+          "champions": [
+            {
+              "name": "Olaf",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Varus",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ambessa",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Rumble",
+              "games": 3,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:98350648-2d5d-5f04-bd9a-2f9df0941f8b",
+          "name": "Canyon",
+          "team": "GEN",
+          "role": "JGL",
+          "games": 29,
+          "wins": 20,
+          "winRate": 69,
+          "kills": 2.59,
+          "deaths": 2.24,
+          "assists": 7.76,
+          "firstGame": "2026-07-31",
+          "lastGame": "2026-09-13",
+          "timelineGames": 29,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/d7/d7698fba622e3153227bfddaf927459d2acbc5665c6e0a39e54d0a36d4d5b483.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/8709-canyon",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.62,
+            "csm": 7.29,
+            "gpm": 391.35,
+            "dpm": 376.67,
+            "damageShare": 15.1,
+            "gd15": 48,
+            "csd15": 2.93,
+            "xpd15": 122,
+            "kp": 69.1,
+            "vision": 2.15
+          },
+          "champions": [
+            {
+              "name": "Lee Sin",
+              "games": 8,
+              "wins": 7
+            },
+            {
+              "name": "Nocturne",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Vi",
+              "games": 3,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:85710303-0ee3-5ede-a45d-b63e68ae12ea",
+          "name": "Ruler",
+          "team": "GEN",
+          "role": "ADC",
+          "games": 29,
+          "wins": 20,
+          "winRate": 69,
+          "kills": 4.55,
+          "deaths": 2.03,
+          "assists": 5.79,
+          "firstGame": "2026-07-31",
+          "lastGame": "2026-09-13",
+          "timelineGames": 29,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/9b/9b10b93cc8368c90c82dd1381151931e6f857a4beb6a34e46469ea6aee9d558d.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/4630-ruler",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.08,
+            "csm": 10.53,
+            "gpm": 504.32,
+            "dpm": 768.47,
+            "damageShare": 30.8,
+            "gd15": 144,
+            "csd15": 1.34,
+            "xpd15": -11,
+            "kp": 69.1,
+            "vision": 1.7
+          },
+          "champions": [
+            {
+              "name": "Ezreal",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Kalista",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Caitlyn",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Ashe",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:e99d7798-0561-5973-81e9-fb2641dd153d",
+          "name": "Meiko",
+          "team": "IG",
+          "role": "SUP",
+          "games": 43,
+          "wins": 27,
+          "winRate": 62.8,
+          "kills": 0.81,
+          "deaths": 3.02,
+          "assists": 12.09,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-09-19",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/61/61b06fb0993c0a6c0157d85181eaf30de0d3eff84e2decc7fd5d272afb5ed703.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/2701-meiko",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.27,
+            "csm": 1.1,
+            "gpm": 277.4,
+            "dpm": 228.33,
+            "damageShare": 7.6,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 77.8,
+            "vision": 4.14
+          },
+          "champions": [
+            {
+              "name": "Lulu",
+              "games": 6,
+              "wins": 6
+            },
+            {
+              "name": "Seraphine",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Karma",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Bard",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:b916f328-5814-526a-be4a-41185826023a",
+          "name": "Assum",
+          "team": "IG",
+          "role": "ADC",
+          "games": 10,
+          "wins": 7,
+          "winRate": 70,
+          "kills": 5.2,
+          "deaths": 2.8,
+          "assists": 7.4,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-08-09",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/01/01d40e8011613b2153fcea35f978c5c3ffc42a3f9958bb4720379c5d0bda6619.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11215-assum",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.5,
+            "csm": 9.52,
+            "gpm": 500.36,
+            "dpm": 909.81,
+            "damageShare": 26.8,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 68.10000000000001,
+            "vision": 1.45
+          },
+          "champions": [
+            {
+              "name": "Ezreal",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Jhin",
+              "games": 1,
+              "wins": 1
+            },
+            {
+              "name": "Seraphine",
+              "games": 1,
+              "wins": 1
+            },
+            {
+              "name": "Kai'Sa",
+              "games": 1,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:17c8c53c-10f5-55fc-91e6-310dc3917509",
+          "name": "Rookie",
+          "team": "IG",
+          "role": "MID",
+          "games": 43,
+          "wins": 27,
+          "winRate": 62.8,
+          "kills": 4.12,
+          "deaths": 2.26,
+          "assists": 7.14,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-09-19",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/70/7089ae3c4e46b534482262d0a2b78c278e38f55b4f97a8dd2d033cb4549d04b6.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/1851-rookie",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.99,
+            "csm": 8.65,
+            "gpm": 414.78,
+            "dpm": 780.1,
+            "damageShare": 26.1,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 67.9,
+            "vision": 1.49
+          },
+          "champions": [
+            {
+              "name": "Orianna",
+              "games": 7,
+              "wins": 6
+            },
+            {
+              "name": "Ryze",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Viktor",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Aurora",
+              "games": 4,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:e9d5b08d-234b-5bfa-bdf6-81ca96793303",
+          "name": "Wei",
+          "team": "IG",
+          "role": "JGL",
+          "games": 43,
+          "wins": 27,
+          "winRate": 62.8,
+          "kills": 3.63,
+          "deaths": 3.05,
+          "assists": 8.67,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-09-19",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/cd/cd6ec60046789e09fd12cb0dcecf865042cbca9b5ce65b01cd553dcdaea2074f.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7924-wei",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.04,
+            "csm": 6.75,
+            "gpm": 402.96,
+            "dpm": 503.11,
+            "damageShare": 16.8,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 74.2,
+            "vision": 1.95
+          },
+          "champions": [
+            {
+              "name": "Naafiri",
+              "games": 8,
+              "wins": 4
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Trundle",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Vi",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:889b02a1-8be4-5120-8e4d-4c7faad6b095",
+          "name": "JiaQi",
+          "team": "IG",
+          "role": "ADC",
+          "games": 33,
+          "wins": 20,
+          "winRate": 60.6,
+          "kills": 5.45,
+          "deaths": 3.36,
+          "assists": 5.48,
+          "firstGame": "2026-08-16",
+          "lastGame": "2026-09-19",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/02/02fb34b62ecf030a124ca3a82537b4509748a80d10afe169fff5453e11fecc72.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/13629-jiaqi",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.25,
+            "csm": 9.92,
+            "gpm": 508.44,
+            "dpm": 834.51,
+            "damageShare": 29.099999999999998,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 68.4,
+            "vision": 1.33
+          },
+          "champions": [
+            {
+              "name": "Yunara",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Jhin",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Aphelios",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ashe",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:6bd342e3-1276-59b9-b7b9-f13be25d7110",
+          "name": "TheShy",
+          "team": "IG",
+          "role": "TOP",
+          "games": 43,
+          "wins": 27,
+          "winRate": 62.8,
+          "kills": 2.63,
+          "deaths": 3.14,
+          "assists": 5.12,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-09-19",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/f7/f7b608e18c44108a999a476bcab371ac5d15221b9cea40073991f6131573140e.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/3190-theshy",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.47,
+            "csm": 7.91,
+            "gpm": 381.39,
+            "dpm": 628.48,
+            "damageShare": 21,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 46.7,
+            "vision": 1.16
+          },
+          "champions": [
+            {
+              "name": "Rumble",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Olaf",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Yorick",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Gnar",
+              "games": 4,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:dc61bbb7-efdd-56d7-8f25-b08d3b4f61aa",
+          "name": "Josedeodo",
+          "team": "TL",
+          "role": "JGL",
+          "games": 26,
+          "wins": 21,
+          "winRate": 80.80000000000001,
+          "kills": 3.77,
+          "deaths": 1.65,
+          "assists": 7.77,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-10-04",
+          "timelineGames": 26,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/7e/7e7ad1e8a0f6b34200ad8d6d8de9809f474010b9990e42d7ec5857c565415d55.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5911-josedeodo",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 6.98,
+            "csm": 7.35,
+            "gpm": 423.41,
+            "dpm": 503.48,
+            "damageShare": 18.9,
+            "gd15": 309,
+            "csd15": 3.58,
+            "xpd15": 306,
+            "kp": 69.6,
+            "vision": 1.71
+          },
+          "champions": [
+            {
+              "name": "Pantheon",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Qiyana",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Naafiri",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Wukong",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:195b0744-3fd5-5e4e-8f8b-1d5dffd7d5c0",
+          "name": "Morgan",
+          "team": "TL",
+          "role": "TOP",
+          "games": 26,
+          "wins": 21,
+          "winRate": 80.80000000000001,
+          "kills": 2.96,
+          "deaths": 1.65,
+          "assists": 6.35,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-10-04",
+          "timelineGames": 26,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/b0/b0219b6b9fe46e71bfdcee34f888ac292eebe9c95b2128edafa57640bfcbcabb.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9677-morgan",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.63,
+            "csm": 8.75,
+            "gpm": 410.08,
+            "dpm": 552.74,
+            "damageShare": 20.7,
+            "gd15": 244,
+            "csd15": 2.12,
+            "xpd15": 375,
+            "kp": 56.10000000000001,
+            "vision": 1.4
+          },
+          "champions": [
+            {
+              "name": "Ambessa",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "K'Sante",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Camille",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Gnar",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:f5648025-4438-55f3-98f1-95932f8ada8a",
+          "name": "CoreJJ",
+          "team": "TL",
+          "role": "SUP",
+          "games": 26,
+          "wins": 21,
+          "winRate": 80.80000000000001,
+          "kills": 0.62,
+          "deaths": 1.69,
+          "assists": 12.15,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-10-04",
+          "timelineGames": 26,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/d1/d17924049957df14889f77f7cc36938e5c0b2261781df6437020c5b6356bf805.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/1251-corejj",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 7.55,
+            "csm": 1.08,
+            "gpm": 273.3,
+            "dpm": 189.29,
+            "damageShare": 7.1,
+            "gd15": 63,
+            "csd15": 0.58,
+            "xpd15": -13,
+            "kp": 77,
+            "vision": 4.14
+          },
+          "champions": [
+            {
+              "name": "Nami",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Nautilus",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Karma",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Renata Glasc",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:d657d29e-d291-54df-a007-642bc903f6f2",
+          "name": "Quid",
+          "team": "TL",
+          "role": "MID",
+          "games": 26,
+          "wins": 21,
+          "winRate": 80.80000000000001,
+          "kills": 4.88,
+          "deaths": 2.15,
+          "assists": 6.85,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-10-04",
+          "timelineGames": 26,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/70/70207bcfbc985be8fc88e19c04d5c9ebed75aad8b01377390955eae98cf9a858.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/12837-quid",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.45,
+            "csm": 9.07,
+            "gpm": 431.47,
+            "dpm": 666.53,
+            "damageShare": 25,
+            "gd15": 161,
+            "csd15": -0.96,
+            "xpd15": 178,
+            "kp": 70.8,
+            "vision": 1.36
+          },
+          "champions": [
+            {
+              "name": "Orianna",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Syndra",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Ryze",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Ahri",
+              "games": 3,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:a3f74ee9-d148-57c3-be93-a2e7b4ede3c6",
+          "name": "Yeon",
+          "team": "TL",
+          "role": "ADC",
+          "games": 26,
+          "wins": 21,
+          "winRate": 80.80000000000001,
+          "kills": 4.35,
+          "deaths": 1.85,
+          "assists": 6.54,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-10-04",
+          "timelineGames": 26,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/bc/bc2b271fb2454f50fece5baba0dc7e0cd7446259adf6bb915f0569caeeeff127.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11961-yeon",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.9,
+            "csm": 9.98,
+            "gpm": 503.83,
+            "dpm": 757.4,
+            "damageShare": 28.4,
+            "gd15": 430,
+            "csd15": 8.42,
+            "xpd15": 286,
+            "kp": 65.7,
+            "vision": 1.26
+          },
+          "champions": [
+            {
+              "name": "Lucian",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Ezreal",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Ashe",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Kalista",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:8877dcfb-6ed5-5fd4-a70c-3447182adeaa",
+          "name": "Shad0w",
+          "team": "CFO",
+          "role": "JGL",
+          "games": 35,
+          "wins": 19,
+          "winRate": 54.300000000000004,
+          "kills": 3.49,
+          "deaths": 3.37,
+          "assists": 9.23,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-08-30",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/3a/3af844f63fc0e1a7783061a8ac04c322f24cc5fe2e64e62baec24a3a1172281b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5589-shad0w",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.77,
+            "csm": 6.85,
+            "gpm": 400.58,
+            "dpm": 505.29,
+            "damageShare": 18.3,
+            "gd15": 73,
+            "csd15": 0.26,
+            "xpd15": 15,
+            "kp": 73.4,
+            "vision": 1.95
+          },
+          "champions": [
+            {
+              "name": "Naafiri",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 5,
+              "wins": 1
+            },
+            {
+              "name": "Poppy",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Trundle",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:a6cf09d5-d5c4-50f1-932d-a9d755888ea2",
+          "name": "Kino",
+          "team": "CFO",
+          "role": "SUP",
+          "games": 35,
+          "wins": 19,
+          "winRate": 54.300000000000004,
+          "kills": 0.74,
+          "deaths": 3.57,
+          "assists": 10.86,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-08-30",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/e6/e623ca758be8456b92f089eda24fb9d281a2298f4d7aadd24bbd2e10dd8675b7.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7177-kino",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.25,
+            "csm": 1.02,
+            "gpm": 268.17,
+            "dpm": 163.56,
+            "damageShare": 5.8999999999999995,
+            "gd15": 4,
+            "csd15": -0.83,
+            "xpd15": -256,
+            "kp": 67,
+            "vision": 4.3
+          },
+          "champions": [
+            {
+              "name": "Milio",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Nautilus",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Lulu",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Camille",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:131cf3cf-07c8-5ef4-a49d-d1b7bdff920b",
+          "name": "POUT",
+          "team": "CFO",
+          "role": "MID",
+          "games": 35,
+          "wins": 19,
+          "winRate": 54.300000000000004,
+          "kills": 4.46,
+          "deaths": 2.6,
+          "assists": 6.4,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-08-30",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/21/21916638ba37c8af1b76cfbfdedd4d12d7c6abecf5aaae47d1b32e763f0049d2.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/13012-pout",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.18,
+            "csm": 8.96,
+            "gpm": 417.14,
+            "dpm": 706.21,
+            "damageShare": 25.5,
+            "gd15": -9,
+            "csd15": 2.29,
+            "xpd15": 80,
+            "kp": 62.7,
+            "vision": 1.43
+          },
+          "champions": [
+            {
+              "name": "Akali",
+              "games": 8,
+              "wins": 5
+            },
+            {
+              "name": "Syndra",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Orianna",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Ryze",
+              "games": 4,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:815ae660-c925-577f-a8f9-5afa6c0551b1",
+          "name": "Doggo",
+          "team": "CFO",
+          "role": "ADC",
+          "games": 35,
+          "wins": 19,
+          "winRate": 54.300000000000004,
+          "kills": 5.91,
+          "deaths": 2.94,
+          "assists": 5.34,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-08-30",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/6b/6b72bd8e50b0f1a0e8ef67a4ca828189caa85bbd6739bb25d79cb581808faab9.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9194-doggo",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.83,
+            "csm": 9.75,
+            "gpm": 499.54,
+            "dpm": 796.74,
+            "damageShare": 28.799999999999997,
+            "gd15": 243,
+            "csd15": 0.71,
+            "xpd15": -22,
+            "kp": 65,
+            "vision": 1.49
+          },
+          "champions": [
+            {
+              "name": "Lucian",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Caitlyn",
+              "games": 3,
+              "wins": 1
+            },
+            {
+              "name": "Yunara",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Samira",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:dfdd6662-09b8-53a5-a326-41d6cdee7e9e",
+          "name": "Rest",
+          "team": "CFO",
+          "role": "TOP",
+          "games": 35,
+          "wins": 19,
+          "winRate": 54.300000000000004,
+          "kills": 2.71,
+          "deaths": 2.83,
+          "assists": 6.77,
+          "firstGame": "2026-07-26",
+          "lastGame": "2026-08-30",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/1a/1a09511df51f55613f6c37158b147ae02b8040e956efef5132f436b516256a41.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5322-rest",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.35,
+            "csm": 7.82,
+            "gpm": 380.54,
+            "dpm": 593.46,
+            "damageShare": 21.5,
+            "gd15": -125,
+            "csd15": -6.06,
+            "xpd15": 265,
+            "kp": 54.800000000000004,
+            "vision": 1.13
+          },
+          "champions": [
+            {
+              "name": "Rumble",
+              "games": 6,
+              "wins": 2
+            },
+            {
+              "name": "Jayce",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Gnar",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Renekton",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:0e0904b2-fdfc-5509-bc92-cc327cb6a944",
+          "name": "Tarzan",
+          "team": "AL",
+          "role": "JGL",
+          "games": 52,
+          "wins": 31,
+          "winRate": 59.599999999999994,
+          "kills": 3.79,
+          "deaths": 2.44,
+          "assists": 8.46,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/4b/4b7d1e918e784ae1d2aed1202084b023d63c06bcf3e38e079194f7bd6b528b69.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5692-tarzan",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.02,
+            "csm": 7.36,
+            "gpm": 413.23,
+            "dpm": 520.55,
+            "damageShare": 19.2,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 74.9,
+            "vision": 1.86
+          },
+          "champions": [
+            {
+              "name": "Naafiri",
+              "games": 9,
+              "wins": 5
+            },
+            {
+              "name": "Qiyana",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Skarner",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:f506e5ce-9355-500a-b6f2-05b3d276d614",
+          "name": "Kael",
+          "team": "AL",
+          "role": "SUP",
+          "games": 52,
+          "wins": 31,
+          "winRate": 59.599999999999994,
+          "kills": 0.62,
+          "deaths": 2.65,
+          "assists": 11.69,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/35/35890a8e94c865262e0d77f707feea22d54d83ecd99813dfc25e27c57844fbc6.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/13059-kael",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.64,
+            "csm": 1.17,
+            "gpm": 263.97,
+            "dpm": 214.48,
+            "damageShare": 7.9,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 75.3,
+            "vision": 4.45
+          },
+          "champions": [
+            {
+              "name": "Rell",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Karma",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Camille",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Shen",
+              "games": 6,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:7fba8624-547d-5814-b3a5-67feb00e45df",
+          "name": "Breathe",
+          "team": "AL",
+          "role": "TOP",
+          "games": 52,
+          "wins": 31,
+          "winRate": 59.599999999999994,
+          "kills": 3.23,
+          "deaths": 2.29,
+          "assists": 5.29,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/50/505836bfb23770556d5cbd10bbcb44c6ea54ba824b94b3296f1a8a5cccd22e16.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/8921-breathe",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.72,
+            "csm": 8.42,
+            "gpm": 390.71,
+            "dpm": 552.43,
+            "damageShare": 20.4,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 52.1,
+            "vision": 1.46
+          },
+          "champions": [
+            {
+              "name": "Gnar",
+              "games": 11,
+              "wins": 7
+            },
+            {
+              "name": "K'Sante",
+              "games": 8,
+              "wins": 6
+            },
+            {
+              "name": "Ambessa",
+              "games": 8,
+              "wins": 4
+            },
+            {
+              "name": "Yorick",
+              "games": 6,
+              "wins": 5
+            }
+          ]
+        },
+        {
+          "id": "dpm:c6adeeb0-556e-5171-a9be-0c74c8ef0be3",
+          "name": "Hope",
+          "team": "AL",
+          "role": "ADC",
+          "games": 52,
+          "wins": 31,
+          "winRate": 59.599999999999994,
+          "kills": 4.54,
+          "deaths": 2.13,
+          "assists": 6.23,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/0a/0a0e9b94b34a6fffdf2ad4a8a346094203d08e707eb624668d7833be5f2e3c9b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5729-hope",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.05,
+            "csm": 9.9,
+            "gpm": 487.14,
+            "dpm": 760.23,
+            "damageShare": 28.1,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 65.9,
+            "vision": 1.59
+          },
+          "champions": [
+            {
+              "name": "Ziggs",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Varus",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Jhin",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Caitlyn",
+              "games": 5,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:428a3a79-fc79-5fbc-8e9a-bd457beb8800",
+          "name": "Shanks",
+          "team": "AL",
+          "role": "MID",
+          "games": 52,
+          "wins": 31,
+          "winRate": 59.599999999999994,
+          "kills": 4.17,
+          "deaths": 2.6,
+          "assists": 6.5,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/ca/ca3bbe9b140f9d6418774d4fc6d2a6960dc1cd34ec8263e51261c1bb61f0b192.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11339-shanks",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.11,
+            "csm": 8.96,
+            "gpm": 410.18,
+            "dpm": 662.27,
+            "damageShare": 24.4,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 65.3,
+            "vision": 1.26
+          },
+          "champions": [
+            {
+              "name": "Annie",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Ryze",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Cassiopeia",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Galio",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:304e9993-3989-581a-b876-a0d7bfb3b7b6",
+          "name": "Yike",
+          "team": "KC",
+          "role": "JGL",
+          "games": 42,
+          "wins": 31,
+          "winRate": 73.8,
+          "kills": 4.05,
+          "deaths": 2.67,
+          "assists": 6.88,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-10-18",
+          "timelineGames": 42,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/c5/c5b1df53e2cbf223f9c0b8ef1f8bba07ffb7fc5c0b573d4713e8aa2ff9bef6ae.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9898-yike",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.1,
+            "csm": 7.51,
+            "gpm": 419.56,
+            "dpm": 443.61,
+            "damageShare": 16.2,
+            "gd15": 242,
+            "csd15": 4.43,
+            "xpd15": 283,
+            "kp": 69.5,
+            "vision": 1.86
+          },
+          "champions": [
+            {
+              "name": "Vi",
+              "games": 8,
+              "wins": 6
+            },
+            {
+              "name": "Lee Sin",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Qiyana",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 5,
+              "wins": 5
+            }
+          ]
+        },
+        {
+          "id": "dpm:474d4e9f-2893-5f91-bc8b-b45bf2e76b7f",
+          "name": "Caliste",
+          "team": "KC",
+          "role": "ADC",
+          "games": 42,
+          "wins": 31,
+          "winRate": 73.8,
+          "kills": 4.79,
+          "deaths": 1.74,
+          "assists": 5.33,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-10-18",
+          "timelineGames": 42,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/11/11fdd7dcbe88860fc78496bb94b52ba0f587a6417f46bb73fbe4d4ee96702824.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/14107-caliste",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.82,
+            "csm": 10.67,
+            "gpm": 519.76,
+            "dpm": 809.38,
+            "damageShare": 29.599999999999998,
+            "gd15": 325,
+            "csd15": 4.86,
+            "xpd15": 149,
+            "kp": 64.4,
+            "vision": 1.53
+          },
+          "champions": [
+            {
+              "name": "Caitlyn",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Ezreal",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Viktor",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Ashe",
+              "games": 4,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:43adaa30-daad-5575-be70-efa2c353cfb2",
+          "name": "Canna",
+          "team": "KC",
+          "role": "TOP",
+          "games": 42,
+          "wins": 31,
+          "winRate": 73.8,
+          "kills": 3.17,
+          "deaths": 2.62,
+          "assists": 5.17,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-10-18",
+          "timelineGames": 42,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/d1/d18b934d327f9d3afa6e905ef27f1fa7770361431f249a5d82f3054e6d790ed9.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/10013-canna",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.18,
+            "csm": 8.69,
+            "gpm": 415.64,
+            "dpm": 631.61,
+            "damageShare": 23.1,
+            "gd15": 283,
+            "csd15": 2.86,
+            "xpd15": 177,
+            "kp": 53,
+            "vision": 1.41
+          },
+          "champions": [
+            {
+              "name": "Rumble",
+              "games": 8,
+              "wins": 6
+            },
+            {
+              "name": "Ambessa",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Jayce",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Gnar",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:9c11fc79-3061-5298-9841-6fa61d1e359b",
+          "name": "Busio",
+          "team": "KC",
+          "role": "SUP",
+          "games": 42,
+          "wins": 31,
+          "winRate": 73.8,
+          "kills": 0.88,
+          "deaths": 2.64,
+          "assists": 9.69,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-10-18",
+          "timelineGames": 42,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/ec/eced9c56e1b492a4bf87e5f229a14da11de8c125353202f65a1acd7afa1e3987.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/12406-busio",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4,
+            "csm": 0.94,
+            "gpm": 262.24,
+            "dpm": 216.5,
+            "damageShare": 7.9,
+            "gd15": 117,
+            "csd15": -1.62,
+            "xpd15": 40,
+            "kp": 67.30000000000001,
+            "vision": 4.15
+          },
+          "champions": [
+            {
+              "name": "Leona",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Seraphine",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Bard",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Nautilus",
+              "games": 4,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:066048b1-5a9e-5374-b3c9-8364468a91e8",
+          "name": "kyeahoo",
+          "team": "KC",
+          "role": "MID",
+          "games": 42,
+          "wins": 31,
+          "winRate": 73.8,
+          "kills": 2.83,
+          "deaths": 2.29,
+          "assists": 6.38,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-10-18",
+          "timelineGames": 42,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/57/57cfdd1fee9cfaa01bc33b72e10ef97d57ca4423b4795cc6d91fcbf21c193764.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/14231-kyeahoo",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.03,
+            "csm": 8.92,
+            "gpm": 407.48,
+            "dpm": 637.1,
+            "damageShare": 23.3,
+            "gd15": 249,
+            "csd15": 5.45,
+            "xpd15": 160,
+            "kp": 58.599999999999994,
+            "vision": 1.44
+          },
+          "champions": [
+            {
+              "name": "Syndra",
+              "games": 7,
+              "wins": 6
+            },
+            {
+              "name": "Viktor",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Ryze",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Cassiopeia",
+              "games": 5,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:8db95e47-047c-50df-a3e0-2b319e2f2a0a",
+          "name": "SkewMond",
+          "team": "G2",
+          "role": "JGL",
+          "games": 31,
+          "wins": 23,
+          "winRate": 74.2,
+          "kills": 3.65,
+          "deaths": 2.03,
+          "assists": 7.19,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/42/424df316603fb26839b1a764af7bdf22df69f4a09fec5cd4c6ce2e7bd9aea5f1.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/14105-skewmond",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.33,
+            "csm": 7.34,
+            "gpm": 412.14,
+            "dpm": 454.85,
+            "damageShare": 17.2,
+            "gd15": 91,
+            "csd15": 2.77,
+            "xpd15": 231,
+            "kp": 65.9,
+            "vision": 2.04
+          },
+          "champions": [
+            {
+              "name": "Jarvan IV",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Xin Zhao",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Skarner",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Naafiri",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:4df2b10c-4876-518e-a794-e777f34ccdf8",
+          "name": "Hans Sama",
+          "team": "G2",
+          "role": "ADC",
+          "games": 31,
+          "wins": 23,
+          "winRate": 74.2,
+          "kills": 4.9,
+          "deaths": 2,
+          "assists": 5.06,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/c0/c0ae838913f48e58ea7997e67e59efb26af1bf11ae3b0b87ebdd1950a3255bea.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/3109-hans-sama",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.98,
+            "csm": 10.27,
+            "gpm": 502.3,
+            "dpm": 802.34,
+            "damageShare": 30.3,
+            "gd15": 535,
+            "csd15": 11.58,
+            "xpd15": 254,
+            "kp": 60.6,
+            "vision": 1.58
+          },
+          "champions": [
+            {
+              "name": "Lucian",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Yunara",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Ziggs",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ashe",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:eb198b0a-502d-5caf-a48a-02510cf92bc8",
+          "name": "Caps",
+          "team": "G2",
+          "role": "MID",
+          "games": 31,
+          "wins": 23,
+          "winRate": 74.2,
+          "kills": 3.81,
+          "deaths": 2.16,
+          "assists": 5.94,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/4d/4dfecc6b7c45553e7cb3ab043bf4265f09e9c7890c16291b4cd3291638c49870.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/3342-caps",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.51,
+            "csm": 9,
+            "gpm": 420.75,
+            "dpm": 601.66,
+            "damageShare": 22.7,
+            "gd15": 131,
+            "csd15": 8.58,
+            "xpd15": 481,
+            "kp": 59.199999999999996,
+            "vision": 1.3
+          },
+          "champions": [
+            {
+              "name": "Orianna",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Akali",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Viktor",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Ahri",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:39ecade2-84c1-5b33-a698-bc9dcf3bd5c6",
+          "name": "BrokenBlade",
+          "team": "G2",
+          "role": "TOP",
+          "games": 31,
+          "wins": 23,
+          "winRate": 74.2,
+          "kills": 3.35,
+          "deaths": 2.65,
+          "assists": 5,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/83/83b3b497c308251128b99ddf50b0afe2c18df12e638ef9c30de857d4f57791b5.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5245-brokenblade",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.16,
+            "csm": 8.42,
+            "gpm": 403.79,
+            "dpm": 608,
+            "damageShare": 22.900000000000002,
+            "gd15": -119,
+            "csd15": -3.84,
+            "xpd15": -99,
+            "kp": 50.8,
+            "vision": 1.52
+          },
+          "champions": [
+            {
+              "name": "Kled",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Rumble",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "K'Sante",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ambessa",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:4095fab2-155b-577e-83d0-a4154ce17f57",
+          "name": "Labrov",
+          "team": "G2",
+          "role": "SUP",
+          "games": 31,
+          "wins": 23,
+          "winRate": 74.2,
+          "kills": 0.74,
+          "deaths": 3.32,
+          "assists": 10.68,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/6c/6cc788719b06f91d5d9f50ceb86f49c2fb3755e7f72d89878c55a5007283d688.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5299-labrov",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.44,
+            "csm": 0.99,
+            "gpm": 270.41,
+            "dpm": 182.89,
+            "damageShare": 6.9,
+            "gd15": 75,
+            "csd15": -0.03,
+            "xpd15": -16,
+            "kp": 69.39999999999999,
+            "vision": 4.25
+          },
+          "champions": [
+            {
+              "name": "Shen",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Alistar",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Leona",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Seraphine",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:3aefa402-0f14-5305-8eaa-d727a447d72c",
+          "name": "Career",
+          "team": "DK",
+          "role": "SUP",
+          "games": 35,
+          "wins": 18,
+          "winRate": 51.4,
+          "kills": 0.57,
+          "deaths": 3,
+          "assists": 9.91,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-06",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/66/66218b56e93f41c40fb00c7b22d5f44842150cfd5d1132560e036e48ce29a862.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/15195-career",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.5,
+            "csm": 1.23,
+            "gpm": 267.12,
+            "dpm": 193.59,
+            "damageShare": 7.9,
+            "gd15": 61,
+            "csd15": 4.31,
+            "xpd15": 301,
+            "kp": 78.3,
+            "vision": 4.34
+          },
+          "champions": [
+            {
+              "name": "Lulu",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Karma",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Bard",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Milio",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:e44167d8-de2a-502d-b691-8a5bb59fa008",
+          "name": "Lucid",
+          "team": "DK",
+          "role": "JGL",
+          "games": 35,
+          "wins": 18,
+          "winRate": 51.4,
+          "kills": 2.4,
+          "deaths": 3,
+          "assists": 7.09,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-06",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/98/983281ab731461b8c6de259ebc86be45c4402fd66edcb8687aee1a4046aa5b40.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/13172-lucid",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.16,
+            "csm": 7.25,
+            "gpm": 385.11,
+            "dpm": 412.24,
+            "damageShare": 16.8,
+            "gd15": 21,
+            "csd15": 4.74,
+            "xpd15": 260,
+            "kp": 70.8,
+            "vision": 2.03
+          },
+          "champions": [
+            {
+              "name": "Jarvan IV",
+              "games": 8,
+              "wins": 4
+            },
+            {
+              "name": "Xin Zhao",
+              "games": 7,
+              "wins": 4
+            },
+            {
+              "name": "Vi",
+              "games": 6,
+              "wins": 2
+            },
+            {
+              "name": "Naafiri",
+              "games": 4,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:2bdbe6d3-22a3-586c-94fe-b25735006c27",
+          "name": "Smash",
+          "team": "DK",
+          "role": "ADC",
+          "games": 35,
+          "wins": 18,
+          "winRate": 51.4,
+          "kills": 4.51,
+          "deaths": 2.06,
+          "assists": 4.77,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-06",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/4b/4b2bcaa6e93f20d99d4e21d854e085af5f5209774f6c4b3be6c26ba0f0303d03.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/14376-smash",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.51,
+            "csm": 10.73,
+            "gpm": 502.71,
+            "dpm": 692.12,
+            "damageShare": 28.199999999999996,
+            "gd15": 143,
+            "csd15": 3.09,
+            "xpd15": -39,
+            "kp": 69.3,
+            "vision": 1.34
+          },
+          "champions": [
+            {
+              "name": "Jhin",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Ezreal",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Yunara",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Lucian",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:4b7588ab-f707-516e-82e9-cccc7960008b",
+          "name": "ShowMaker",
+          "team": "DK",
+          "role": "MID",
+          "games": 35,
+          "wins": 18,
+          "winRate": 51.4,
+          "kills": 3.57,
+          "deaths": 2.34,
+          "assists": 5.43,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-06",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/33/335ab7889763acd4a5e124284c6a532e08244adbabb08a975af793713583eb6b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7107-showmaker",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.84,
+            "csm": 9.14,
+            "gpm": 415.77,
+            "dpm": 635.07,
+            "damageShare": 25.900000000000002,
+            "gd15": -23,
+            "csd15": -0.23,
+            "xpd15": -16,
+            "kp": 67.2,
+            "vision": 1.35
+          },
+          "champions": [
+            {
+              "name": "Orianna",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Viktor",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Taliyah",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Annie",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:99da255f-5486-595e-b469-283d1c44e663",
+          "name": "Siwoo",
+          "team": "DK",
+          "role": "TOP",
+          "games": 35,
+          "wins": 18,
+          "winRate": 51.4,
+          "kills": 2.34,
+          "deaths": 3.14,
+          "assists": 3.74,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-06",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/24/24c8a7c87251e7bb142609f015d53a60ca5efc5008f66c1c1f8ccbae51c361d3.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/16108-siwoo",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 1.94,
+            "csm": 9.1,
+            "gpm": 398.64,
+            "dpm": 517.91,
+            "damageShare": 21.099999999999998,
+            "gd15": -31,
+            "csd15": 3.83,
+            "xpd15": -22,
+            "kp": 45.4,
+            "vision": 1.48
+          },
+          "champions": [
+            {
+              "name": "Jayce",
+              "games": 6,
+              "wins": 2
+            },
+            {
+              "name": "K'Sante",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Gnar",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Olaf",
+              "games": 4,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:4e9866a1-efc9-5390-aa85-842131f83d9e",
+          "name": "Zeka",
+          "team": "HLE",
+          "role": "MID",
+          "games": 38,
+          "wins": 19,
+          "winRate": 50,
+          "kills": 4.24,
+          "deaths": 2.13,
+          "assists": 6.45,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-13",
+          "timelineGames": 38,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/99/9952f54017f81b04bb7dea91293c2591862c32f2ef4efe2ea0c8fa9bac390e1b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/10066-zeka",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.01,
+            "csm": 9,
+            "gpm": 419.75,
+            "dpm": 667.52,
+            "damageShare": 24.9,
+            "gd15": 295,
+            "csd15": 0.79,
+            "xpd15": -40,
+            "kp": 72.1,
+            "vision": 1.4
+          },
+          "champions": [
+            {
+              "name": "Orianna",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Ryze",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Akali",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ahri",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:b2cb39c2-9931-5da1-98dc-07c836af9d8d",
+          "name": "Delight",
+          "team": "HLE",
+          "role": "SUP",
+          "games": 35,
+          "wins": 17,
+          "winRate": 48.6,
+          "kills": 0.51,
+          "deaths": 3.37,
+          "assists": 11.11,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-13",
+          "timelineGames": 35,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/dc/dcc715f8324f2f3c9308b1d9b5631e74cb80a937f73dba1f6daff939264515d1.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9869-delight",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.45,
+            "csm": 1.24,
+            "gpm": 269.45,
+            "dpm": 182.59,
+            "damageShare": 6.800000000000001,
+            "gd15": 75,
+            "csd15": 4.49,
+            "xpd15": -146,
+            "kp": 78,
+            "vision": 4.47
+          },
+          "champions": [
+            {
+              "name": "Alistar",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Karma",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Seraphine",
+              "games": 5,
+              "wins": 1
+            },
+            {
+              "name": "Shen",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:d814de9d-4b58-56c0-b3c6-b2d6b0e61f27",
+          "name": "Zeus",
+          "team": "HLE",
+          "role": "TOP",
+          "games": 38,
+          "wins": 19,
+          "winRate": 50,
+          "kills": 3.21,
+          "deaths": 3.08,
+          "assists": 5.55,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-13",
+          "timelineGames": 38,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/2e/2e65bc8824c41ef94c1cb09827fea9401ac6dd637416601b74563880c739a51b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11196-zeus",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.85,
+            "csm": 8.24,
+            "gpm": 394.98,
+            "dpm": 606.71,
+            "damageShare": 22.7,
+            "gd15": 14,
+            "csd15": 3.63,
+            "xpd15": -105,
+            "kp": 59.099999999999994,
+            "vision": 1.25
+          },
+          "champions": [
+            {
+              "name": "Ambessa",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Jayce",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Olaf",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Camille",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:59d894bd-3cac-52fd-8277-83b894f18297",
+          "name": "Kanavi",
+          "team": "HLE",
+          "role": "JGL",
+          "games": 38,
+          "wins": 19,
+          "winRate": 50,
+          "kills": 3.03,
+          "deaths": 4.37,
+          "assists": 7.68,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-13",
+          "timelineGames": 38,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/37/374d3058b2e5890626a3301a548c85a60fda11341fce839af9f451fe27855473.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9606-kanavi",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.45,
+            "csm": 7.19,
+            "gpm": 400.24,
+            "dpm": 483.67,
+            "damageShare": 18.099999999999998,
+            "gd15": 142,
+            "csd15": 0.39,
+            "xpd15": 56,
+            "kp": 72.3,
+            "vision": 1.91
+          },
+          "champions": [
+            {
+              "name": "Jarvan IV",
+              "games": 8,
+              "wins": 2
+            },
+            {
+              "name": "Lee Sin",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Naafiri",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Vi",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:d2e4cc4f-6b77-554e-9639-ac54e7b6802e",
+          "name": "Gumayusi",
+          "team": "HLE",
+          "role": "ADC",
+          "games": 38,
+          "wins": 19,
+          "winRate": 50,
+          "kills": 3.82,
+          "deaths": 3.05,
+          "assists": 6.05,
+          "firstGame": "2026-07-30",
+          "lastGame": "2026-09-13",
+          "timelineGames": 38,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/29/29a8ef90644bbf26310afbc204d326daf24eb38284ab9515813083cd49e7f6f0.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/8582-gumayusi",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.23,
+            "csm": 10.22,
+            "gpm": 479.58,
+            "dpm": 734.73,
+            "damageShare": 27.400000000000002,
+            "gd15": -137,
+            "csd15": 3.61,
+            "xpd15": 94,
+            "kp": 66.60000000000001,
+            "vision": 1.56
+          },
+          "champions": [
+            {
+              "name": "Jhin",
+              "games": 7,
+              "wins": 4
+            },
+            {
+              "name": "Ashe",
+              "games": 5,
+              "wins": 1
+            },
+            {
+              "name": "Caitlyn",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Yunara",
+              "games": 4,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:1165c53e-87e9-5f1b-8927-2b7862eaa81b",
+          "name": "Zhuo",
+          "team": "TES",
+          "role": "SUP",
+          "games": 45,
+          "wins": 25,
+          "winRate": 55.60000000000001,
+          "kills": 0.73,
+          "deaths": 2.93,
+          "assists": 11.33,
+          "firstGame": "2026-07-22",
+          "lastGame": "2026-09-17",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/59/59aba332bfb3e6f50484a1f6052868f492b0ee9afbe7662b9d0544d8b728d489.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7744-zhuo",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.11,
+            "csm": 1.03,
+            "gpm": 264.58,
+            "dpm": 186.46,
+            "damageShare": 6.4,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 73.2,
+            "vision": 4.24
+          },
+          "champions": [
+            {
+              "name": "Alistar",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Milio",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Seraphine",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Karma",
+              "games": 5,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:6dbe221d-46a3-5d8f-924f-f0ab510deca8",
+          "name": "Tian",
+          "team": "TES",
+          "role": "JGL",
+          "games": 45,
+          "wins": 25,
+          "winRate": 55.60000000000001,
+          "kills": 3.53,
+          "deaths": 3.51,
+          "assists": 8.02,
+          "firstGame": "2026-07-22",
+          "lastGame": "2026-09-17",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/87/87b0d259f849b81bbb9b902a8756100a155f96a28d19940d0571d5bae5a73f9d.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/6412-tian",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.29,
+            "csm": 7.32,
+            "gpm": 406.85,
+            "dpm": 492.68,
+            "damageShare": 16.8,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 70.1,
+            "vision": 1.81
+          },
+          "champions": [
+            {
+              "name": "Lee Sin",
+              "games": 8,
+              "wins": 6
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 7,
+              "wins": 3
+            },
+            {
+              "name": "Pantheon",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Vi",
+              "games": 5,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:1cc07582-f018-55a5-9633-93a54fdc0359",
+          "name": "ZUIAN",
+          "team": "TES",
+          "role": "TOP",
+          "games": 45,
+          "wins": 25,
+          "winRate": 55.60000000000001,
+          "kills": 3.71,
+          "deaths": 3.29,
+          "assists": 5.58,
+          "firstGame": "2026-07-22",
+          "lastGame": "2026-09-17",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/6a/6afb29397361ea0823eb699e9b64d778a0ceff37868e30eb3d722fd12797ed50.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/19084-zuian",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.82,
+            "csm": 8.07,
+            "gpm": 396.81,
+            "dpm": 657.83,
+            "damageShare": 22.5,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 56.3,
+            "vision": 1.3
+          },
+          "champions": [
+            {
+              "name": "Rumble",
+              "games": 9,
+              "wins": 6
+            },
+            {
+              "name": "Olaf",
+              "games": 9,
+              "wins": 4
+            },
+            {
+              "name": "Renekton",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "K'Sante",
+              "games": 5,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:553b891d-e8f2-59d6-a358-54e947a31805",
+          "name": "Creme",
+          "team": "TES",
+          "role": "MID",
+          "games": 45,
+          "wins": 25,
+          "winRate": 55.60000000000001,
+          "kills": 3.98,
+          "deaths": 2.71,
+          "assists": 6.56,
+          "firstGame": "2026-07-22",
+          "lastGame": "2026-09-17",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/00/006b9f266b7c1eb3b4a8af2753d0b8ecdc9806913843866d65373e053846ecd8.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11350-creme",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.89,
+            "csm": 8.52,
+            "gpm": 403.11,
+            "dpm": 754.43,
+            "damageShare": 25.8,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 63.9,
+            "vision": 1.52
+          },
+          "champions": [
+            {
+              "name": "Ryze",
+              "games": 7,
+              "wins": 4
+            },
+            {
+              "name": "Orianna",
+              "games": 6,
+              "wins": 1
+            },
+            {
+              "name": "Ahri",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Syndra",
+              "games": 4,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:6c2324e9-f9ef-5002-beb5-fb1069d98d21",
+          "name": "JackeyLove",
+          "team": "TES",
+          "role": "ADC",
+          "games": 45,
+          "wins": 25,
+          "winRate": 55.60000000000001,
+          "kills": 4.53,
+          "deaths": 3.16,
+          "assists": 6.71,
+          "firstGame": "2026-07-22",
+          "lastGame": "2026-09-17",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/23/23f1767459b09e7dd52b3e6086c429c3ebd6cc4e7a9fc673208c7663518ff6b3.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5344-jackeylove",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.56,
+            "csm": 9.65,
+            "gpm": 467.08,
+            "dpm": 835.66,
+            "damageShare": 28.499999999999996,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 68.2,
+            "vision": 1.36
+          },
+          "champions": [
+            {
+              "name": "Ezreal",
+              "games": 8,
+              "wins": 5
+            },
+            {
+              "name": "Lucian",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Ashe",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Jhin",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:634b4d71-980c-5827-9896-9fa1fdd34c27",
+          "name": "Zest",
+          "team": "LOS",
+          "role": "TOP",
+          "games": 39,
+          "wins": 30,
+          "winRate": 76.9,
+          "kills": 3.97,
+          "deaths": 2.64,
+          "assists": 5.95,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-12",
+          "timelineGames": 39,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/4a/4af3400ce4e180caa60907de5fcd82c5c586ad356c8cdc9a3ca1be0259de33eb.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/15418-zest",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.76,
+            "csm": 9.5,
+            "gpm": 441.75,
+            "dpm": 733.06,
+            "damageShare": 25.6,
+            "gd15": 548,
+            "csd15": 14.95,
+            "xpd15": 384,
+            "kp": 57.4,
+            "vision": 1.38
+          },
+          "champions": [
+            {
+              "name": "Jayce",
+              "games": 7,
+              "wins": 6
+            },
+            {
+              "name": "Varus",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ambessa",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Rumble",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:4a798d6e-b968-539e-abd3-6983a5774f6f",
+          "name": "Feisty",
+          "team": "LOS",
+          "role": "MID",
+          "games": 39,
+          "wins": 30,
+          "winRate": 76.9,
+          "kills": 3.92,
+          "deaths": 2.1,
+          "assists": 7.56,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-12",
+          "timelineGames": 39,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/a6/a6bea3145d11577e627f27955370b41141af9bc62d2dcb3c4b208d9f1cc55a4b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/12883-feisty",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.46,
+            "csm": 8.54,
+            "gpm": 413.27,
+            "dpm": 672.81,
+            "damageShare": 23.5,
+            "gd15": 533,
+            "csd15": 12.56,
+            "xpd15": 336,
+            "kp": 66.5,
+            "vision": 1.27
+          },
+          "champions": [
+            {
+              "name": "Orianna",
+              "games": 8,
+              "wins": 8
+            },
+            {
+              "name": "Ryze",
+              "games": 8,
+              "wins": 6
+            },
+            {
+              "name": "Taliyah",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Syndra",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:6ba4637f-a0a7-5770-893e-8db61e914ade",
+          "name": "Ackerman",
+          "team": "LOS",
+          "role": "SUP",
+          "games": 39,
+          "wins": 30,
+          "winRate": 76.9,
+          "kills": 0.92,
+          "deaths": 1.69,
+          "assists": 11.92,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-12",
+          "timelineGames": 39,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/ed/ed642a44c99854b0e24f6cbcfd337ffb02cc55f9a989e651cf01c3e0e3ba5f01.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9552-ackerman",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 7.59,
+            "csm": 1.16,
+            "gpm": 275.64,
+            "dpm": 239.74,
+            "damageShare": 8.4,
+            "gd15": 23,
+            "csd15": 0.77,
+            "xpd15": 60,
+            "kp": 74.3,
+            "vision": 4.35
+          },
+          "champions": [
+            {
+              "name": "Alistar",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Shen",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Lulu",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Karma",
+              "games": 4,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:1751174a-0206-58d6-a855-cb439244cda6",
+          "name": "Curse",
+          "team": "LOS",
+          "role": "JGL",
+          "games": 39,
+          "wins": 30,
+          "winRate": 76.9,
+          "kills": 3.56,
+          "deaths": 3,
+          "assists": 8,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-12",
+          "timelineGames": 39,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/88/880defb364d21fbb643c52f8f8fabb055beafadfdb5078b5d35de1449c8c890f.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/18415-curse",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.85,
+            "csm": 6.6,
+            "gpm": 387.85,
+            "dpm": 459.69,
+            "damageShare": 16.1,
+            "gd15": 68,
+            "csd15": -1.21,
+            "xpd15": 90,
+            "kp": 66.9,
+            "vision": 1.68
+          },
+          "champions": [
+            {
+              "name": "Wukong",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Pantheon",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Vi",
+              "games": 5,
+              "wins": 5
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:27e27221-9034-5296-9970-ad01eaaff35a",
+          "name": "Duduhh",
+          "team": "LOS",
+          "role": "ADC",
+          "games": 39,
+          "wins": 30,
+          "winRate": 76.9,
+          "kills": 4.9,
+          "deaths": 2.74,
+          "assists": 5.87,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-12",
+          "timelineGames": 39,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/ed/eda5a9cba4edcf2ebaec6739fe82bcde66398e71d163c1d098f45e23a5577d0c.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/19890-duduhh",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.93,
+            "csm": 9.81,
+            "gpm": 497.76,
+            "dpm": 753.78,
+            "damageShare": 26.400000000000002,
+            "gd15": 96,
+            "csd15": 5.64,
+            "xpd15": 212,
+            "kp": 62.3,
+            "vision": 1.25
+          },
+          "champions": [
+            {
+              "name": "Sivir",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Viktor",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ashe",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Lucian",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:97559f11-617a-5873-b1f2-6b2b0f6d0717",
+          "name": "Keria",
+          "team": "T1",
+          "role": "SUP",
+          "games": 37,
+          "wins": 17,
+          "winRate": 45.9,
+          "kills": 0.7,
+          "deaths": 2.32,
+          "assists": 10.51,
+          "firstGame": "2026-07-29",
+          "lastGame": "2026-09-12",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/bb/bb36b4aae33993a4bede48e2c8203d0160979e1fe9792cd9334c71ead1b6e1c8.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/6822-keria",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.83,
+            "csm": 1.08,
+            "gpm": 264.55,
+            "dpm": 232.32,
+            "damageShare": 8.7,
+            "gd15": 9,
+            "csd15": -2.95,
+            "xpd15": 147,
+            "kp": 78.3,
+            "vision": 4.35
+          },
+          "champions": [
+            {
+              "name": "Milio",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Renata Glasc",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Camille",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Lux",
+              "games": 3,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:7485ef8d-ab5e-58ec-a47b-d3fbaa08ec5c",
+          "name": "Peyz",
+          "team": "T1",
+          "role": "ADC",
+          "games": 37,
+          "wins": 17,
+          "winRate": 45.9,
+          "kills": 5.57,
+          "deaths": 2.65,
+          "assists": 5.08,
+          "firstGame": "2026-07-29",
+          "lastGame": "2026-09-12",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/91/91574d344d04d7c99343e1923bb403254176debcd09f6d60d0d4004789989a05.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/12782-peyz",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.02,
+            "csm": 10.7,
+            "gpm": 506.8,
+            "dpm": 823.86,
+            "damageShare": 30.9,
+            "gd15": 548,
+            "csd15": 6.03,
+            "xpd15": 180,
+            "kp": 74.3,
+            "vision": 1.38
+          },
+          "champions": [
+            {
+              "name": "Jhin",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Lucian",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "Caitlyn",
+              "games": 4,
+              "wins": 1
+            },
+            {
+              "name": "Yunara",
+              "games": 3,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:48ef9014-ff50-534e-8742-9cf21da2d15c",
+          "name": "Doran",
+          "team": "T1",
+          "role": "TOP",
+          "games": 37,
+          "wins": 17,
+          "winRate": 45.9,
+          "kills": 2.73,
+          "deaths": 2.81,
+          "assists": 4.65,
+          "firstGame": "2026-07-29",
+          "lastGame": "2026-09-12",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/2d/2dcbcf85591d183e42e0414a7af2ae60cfa69d6232c0debd85ef461f52203442.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/6817-doran",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.63,
+            "csm": 8.7,
+            "gpm": 395.09,
+            "dpm": 563.09,
+            "damageShare": 21.099999999999998,
+            "gd15": -90,
+            "csd15": -3.65,
+            "xpd15": -53,
+            "kp": 51.5,
+            "vision": 1.3
+          },
+          "champions": [
+            {
+              "name": "Jayce",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Olaf",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Ambessa",
+              "games": 4,
+              "wins": 1
+            },
+            {
+              "name": "Gwen",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:5ab9277b-d56a-55b2-b33c-6645f1b470c6",
+          "name": "Oner",
+          "team": "T1",
+          "role": "JGL",
+          "games": 34,
+          "wins": 16,
+          "winRate": 47.099999999999994,
+          "kills": 2.71,
+          "deaths": 3.35,
+          "assists": 6.68,
+          "firstGame": "2026-07-29",
+          "lastGame": "2026-09-12",
+          "timelineGames": 34,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/18/18409929f9bdbbcbf4b79d1c347e115d2d4d90ac2aeebf7e5acacfbafec94b86.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11935-oner",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.8,
+            "csm": 6.73,
+            "gpm": 377.27,
+            "dpm": 435.6,
+            "damageShare": 16.5,
+            "gd15": -265,
+            "csd15": -3.59,
+            "xpd15": -188,
+            "kp": 65.2,
+            "vision": 1.93
+          },
+          "champions": [
+            {
+              "name": "Vi",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Skarner",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Naafiri",
+              "games": 4,
+              "wins": 1
+            },
+            {
+              "name": "Pantheon",
+              "games": 4,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:6fd60a21-eb8c-5673-9e52-b78c2baef350",
+          "name": "Faker",
+          "team": "T1",
+          "role": "MID",
+          "games": 37,
+          "wins": 17,
+          "winRate": 45.9,
+          "kills": 2.68,
+          "deaths": 3.03,
+          "assists": 5.92,
+          "firstGame": "2026-07-29",
+          "lastGame": "2026-09-12",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/94/9419ecd4ae50524f42e8bc113adee67c06cbd88e79388090305cce66f7f60ae5.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/1201-faker",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.84,
+            "csm": 8.98,
+            "gpm": 394.49,
+            "dpm": 611.22,
+            "damageShare": 22.900000000000002,
+            "gd15": -328,
+            "csd15": -7.3,
+            "xpd15": -160,
+            "kp": 60,
+            "vision": 1.47
+          },
+          "champions": [
+            {
+              "name": "Ryze",
+              "games": 6,
+              "wins": 3
+            },
+            {
+              "name": "Orianna",
+              "games": 5,
+              "wins": 1
+            },
+            {
+              "name": "Anivia",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Galio",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:7601b1f6-3c3f-5fef-abbd-78a611c40d87",
+          "name": "Hizto",
+          "team": "TSW",
+          "role": "JGL",
+          "games": 22,
+          "wins": 18,
+          "winRate": 81.8,
+          "kills": 5.14,
+          "deaths": 2.36,
+          "assists": 8.82,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-08-30",
+          "timelineGames": 22,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/b7/b789855014e1424eaad07b4d0404ac2bac047f865ea712d7634bbc0009c06907.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/18481-hizto",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.9,
+            "csm": 7.8,
+            "gpm": 452.54,
+            "dpm": 574.35,
+            "damageShare": 18.9,
+            "gd15": 489,
+            "csd15": 8.68,
+            "xpd15": 662,
+            "kp": 71.89999999999999,
+            "vision": 1.75
+          },
+          "champions": [
+            {
+              "name": "Qiyana",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Lee Sin",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Vi",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:1cb47272-a188-5ccb-a7d9-40b6c3536e2d",
+          "name": "Bie",
+          "team": "TSW",
+          "role": "SUP",
+          "games": 22,
+          "wins": 18,
+          "winRate": 81.8,
+          "kills": 0.73,
+          "deaths": 2.14,
+          "assists": 13.36,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-08-30",
+          "timelineGames": 22,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/10/10dc45adef3819ea9e941c055e0efa119e7c8f698cd578235e6adc32072145b9.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7484-bie",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 6.6,
+            "csm": 1.24,
+            "gpm": 286.23,
+            "dpm": 210.75,
+            "damageShare": 6.9,
+            "gd15": 290,
+            "csd15": 2.32,
+            "xpd15": 240,
+            "kp": 72.6,
+            "vision": 4.58
+          },
+          "champions": [
+            {
+              "name": "Nautilus",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Alistar",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Seraphine",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Shen",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:dbe227bb-a379-5732-a9b7-be35adacdb02",
+          "name": "Eddie",
+          "team": "TSW",
+          "role": "ADC",
+          "games": 22,
+          "wins": 18,
+          "winRate": 81.8,
+          "kills": 5.09,
+          "deaths": 2.09,
+          "assists": 7.36,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-08-30",
+          "timelineGames": 22,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/a1/a1a9f14567e016d354822ba53da9d44faae2d22afc80e6a257fec2b53df07ff8.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/11803-eddie",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.96,
+            "csm": 10.12,
+            "gpm": 518.3,
+            "dpm": 851.25,
+            "damageShare": 27.900000000000002,
+            "gd15": 618,
+            "csd15": 8.5,
+            "xpd15": 330,
+            "kp": 64.2,
+            "vision": 1.44
+          },
+          "champions": [
+            {
+              "name": "Yunara",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "Ezreal",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Caitlyn",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Kai'Sa",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:470c316d-b305-5fb8-9c96-6ef1d9f54ccf",
+          "name": "Dire",
+          "team": "TSW",
+          "role": "MID",
+          "games": 22,
+          "wins": 18,
+          "winRate": 81.8,
+          "kills": 5.09,
+          "deaths": 2.09,
+          "assists": 7.41,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-08-30",
+          "timelineGames": 22,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/d5/d5e963a229684712ecf591f101c06a6c00a09ee04951171645209f0e42ad8b2b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/18479-dire",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.98,
+            "csm": 8.84,
+            "gpm": 429.4,
+            "dpm": 753.75,
+            "damageShare": 24.7,
+            "gd15": 329,
+            "csd15": 3.23,
+            "xpd15": 82,
+            "kp": 64.4,
+            "vision": 1.46
+          },
+          "champions": [
+            {
+              "name": "Ahri",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Ryze",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Orianna",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Cassiopeia",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:54214b6a-8320-5704-9e69-e23f4a4bb519",
+          "name": "Pun",
+          "team": "TSW",
+          "role": "TOP",
+          "games": 22,
+          "wins": 18,
+          "winRate": 81.8,
+          "kills": 3.36,
+          "deaths": 3.14,
+          "assists": 6.68,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-08-30",
+          "timelineGames": 22,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/fa/fa000ba4975d4e482f05ab619e321c06eac2e2312a55db6d14a53caa360a278e.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/8777-pun",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.2,
+            "csm": 8.29,
+            "gpm": 411.86,
+            "dpm": 656.6,
+            "damageShare": 21.6,
+            "gd15": 164,
+            "csd15": 0.36,
+            "xpd15": -112,
+            "kp": 51.800000000000004,
+            "vision": 1.48
+          },
+          "champions": [
+            {
+              "name": "Gnar",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Urgot",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Galio",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Olaf",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:b867e1b4-5382-5e03-8fba-0b8d1991d3a3",
+          "name": "Saint",
+          "team": "LYON",
+          "role": "MID",
+          "games": 31,
+          "wins": 21,
+          "winRate": 67.7,
+          "kills": 4.65,
+          "deaths": 2.13,
+          "assists": 5.32,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-04",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/2d/2d5040b83b5e4e3c35c39468cc9a3aef01c561bc8315a5807f45be38c5d9906b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/15763-saint",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.68,
+            "csm": 9.19,
+            "gpm": 436.42,
+            "dpm": 705.01,
+            "damageShare": 28.1,
+            "gd15": 383,
+            "csd15": 5.13,
+            "xpd15": 210,
+            "kp": 66.2,
+            "vision": 1.56
+          },
+          "champions": [
+            {
+              "name": "Ryze",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Syndra",
+              "games": 5,
+              "wins": 2
+            },
+            {
+              "name": "LeBlanc",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Annie",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:5e266ffc-3cef-5589-9235-0a8000b1dd31",
+          "name": "Isles",
+          "team": "LYON",
+          "role": "SUP",
+          "games": 31,
+          "wins": 21,
+          "winRate": 67.7,
+          "kills": 0.45,
+          "deaths": 2.1,
+          "assists": 10.65,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-04",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/5b/5b201757080a75ba8ac6b77cd23f3a2b0ca228705d47b5139e15c20e1fcd7ae8.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9980-isles",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.29,
+            "csm": 0.95,
+            "gpm": 261.57,
+            "dpm": 136.83,
+            "damageShare": 5.4,
+            "gd15": 22,
+            "csd15": -2.19,
+            "xpd15": 133,
+            "kp": 73.7,
+            "vision": 4.22
+          },
+          "champions": [
+            {
+              "name": "Milio",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Lulu",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Alistar",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Renata Glasc",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:c64a1046-f677-5e91-9824-d2d9ae7bfec5",
+          "name": "Berserker",
+          "team": "LYON",
+          "role": "ADC",
+          "games": 31,
+          "wins": 21,
+          "winRate": 67.7,
+          "kills": 4.81,
+          "deaths": 1.77,
+          "assists": 5.23,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-04",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/5e/5ef4fb5302039588e5764c1a0f3b2e9c1c188b0545adb08bb78dd0019a32c1ad.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/12775-berserker",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.65,
+            "csm": 10.12,
+            "gpm": 490.45,
+            "dpm": 739.74,
+            "damageShare": 29.5,
+            "gd15": 559,
+            "csd15": 9.03,
+            "xpd15": 189,
+            "kp": 66.60000000000001,
+            "vision": 1.17
+          },
+          "champions": [
+            {
+              "name": "Lucian",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Yunara",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Ezreal",
+              "games": 3,
+              "wins": 3
+            },
+            {
+              "name": "Kalista",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:c39f26f0-9b3c-5c56-8c0b-75600b9568a6",
+          "name": "Inspired",
+          "team": "LYON",
+          "role": "JGL",
+          "games": 22,
+          "wins": 14,
+          "winRate": 63.6,
+          "kills": 2.86,
+          "deaths": 2.18,
+          "assists": 5.82,
+          "firstGame": "2026-08-29",
+          "lastGame": "2026-10-04",
+          "timelineGames": 22,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/02/0284a5737f81f5b0150728c809e8600ffb55b7f41004924a3cac1c7b75b8009e.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/6428-inspired",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.98,
+            "csm": 7.45,
+            "gpm": 395.69,
+            "dpm": 400,
+            "damageShare": 16.6,
+            "gd15": 107,
+            "csd15": 6.91,
+            "xpd15": 411,
+            "kp": 63.7,
+            "vision": 1.65
+          },
+          "champions": [
+            {
+              "name": "Xin Zhao",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Wukong",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Skarner",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:6a736551-b664-5172-af53-1a940b8e8be8",
+          "name": "Dhokla",
+          "team": "LYON",
+          "role": "TOP",
+          "games": 31,
+          "wins": 21,
+          "winRate": 67.7,
+          "kills": 2.32,
+          "deaths": 2.58,
+          "assists": 4.87,
+          "firstGame": "2026-07-25",
+          "lastGame": "2026-10-04",
+          "timelineGames": 31,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/83/837c3b735fcf3e998447b522cda0da9a5f98d632f821180e1df97a3126803695.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/5495-dhokla",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.79,
+            "csm": 8.08,
+            "gpm": 377.69,
+            "dpm": 528.79,
+            "damageShare": 21.099999999999998,
+            "gd15": 18,
+            "csd15": -0.68,
+            "xpd15": 0,
+            "kp": 47.8,
+            "vision": 1.21
+          },
+          "champions": [
+            {
+              "name": "Gnar",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Gwen",
+              "games": 4,
+              "wins": 1
+            },
+            {
+              "name": "Renekton",
+              "games": 3,
+              "wins": 2
+            },
+            {
+              "name": "K'Sante",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:7474f423-4e67-5037-b7e5-9c7635ae1cba",
+          "name": "ON",
+          "team": "BLG",
+          "role": "SUP",
+          "games": 46,
+          "wins": 32,
+          "winRate": 69.6,
+          "kills": 1,
+          "deaths": 3.67,
+          "assists": 13,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/38/3824978c5235b81d53f34516ec0d95bc5ba3603fe603861ddf640172543d4839.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/10381-on",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.81,
+            "csm": 1.1,
+            "gpm": 286.8,
+            "dpm": 236.67,
+            "damageShare": 8.5,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 74.7,
+            "vision": 4.44
+          },
+          "champions": [
+            {
+              "name": "Lulu",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Karma",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Camille",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Seraphine",
+              "games": 5,
+              "wins": 5
+            }
+          ]
+        },
+        {
+          "id": "dpm:d5a4341d-32f9-587b-8f61-bd9adc838d34",
+          "name": "Xun",
+          "team": "BLG",
+          "role": "JGL",
+          "games": 46,
+          "wins": 32,
+          "winRate": 69.6,
+          "kills": 3.7,
+          "deaths": 2.72,
+          "assists": 9.63,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/e7/e7e0d5d01b9792b41b9e4ec3978cf07cce57d043fec79ec457e3db4037204eb5.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/12063-xun",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.9,
+            "csm": 7.18,
+            "gpm": 409.9,
+            "dpm": 464.77,
+            "damageShare": 16.7,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 71.1,
+            "vision": 1.71
+          },
+          "champions": [
+            {
+              "name": "Naafiri",
+              "games": 10,
+              "wins": 6
+            },
+            {
+              "name": "Jarvan IV",
+              "games": 8,
+              "wins": 5
+            },
+            {
+              "name": "Lee Sin",
+              "games": 7,
+              "wins": 4
+            },
+            {
+              "name": "Pantheon",
+              "games": 4,
+              "wins": 4
+            }
+          ]
+        },
+        {
+          "id": "dpm:d8fe4672-2f0a-5f38-92cc-1ac02341b7d0",
+          "name": "Knight",
+          "team": "BLG",
+          "role": "MID",
+          "games": 46,
+          "wins": 32,
+          "winRate": 69.6,
+          "kills": 5.65,
+          "deaths": 2.28,
+          "assists": 6.85,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/e6/e629a07a294b1645c2daeec1e7cf843303cb719708e9807ce8f00e3594a0333e.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/6155-knight",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.48,
+            "csm": 9.15,
+            "gpm": 446.44,
+            "dpm": 700.5,
+            "damageShare": 25.2,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 66.7,
+            "vision": 1.2
+          },
+          "champions": [
+            {
+              "name": "Ryze",
+              "games": 7,
+              "wins": 6
+            },
+            {
+              "name": "Syndra",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Akali",
+              "games": 5,
+              "wins": 4
+            },
+            {
+              "name": "Orianna",
+              "games": 5,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:af3d724e-972e-5e1d-ab79-ec11ba8cdd79",
+          "name": "Viper",
+          "team": "BLG",
+          "role": "ADC",
+          "games": 46,
+          "wins": 32,
+          "winRate": 69.6,
+          "kills": 5.46,
+          "deaths": 2.43,
+          "assists": 7,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/8c/8c6233148a274c609b0338237f946169e2baf9b8f37dd5a98e4badc101fd06b5.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/7108-viper",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 5.12,
+            "csm": 10.12,
+            "gpm": 507.15,
+            "dpm": 834.81,
+            "damageShare": 30,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 66.5,
+            "vision": 1.66
+          },
+          "champions": [
+            {
+              "name": "Yunara",
+              "games": 7,
+              "wins": 5
+            },
+            {
+              "name": "Ashe",
+              "games": 6,
+              "wins": 6
+            },
+            {
+              "name": "Ezreal",
+              "games": 6,
+              "wins": 5
+            },
+            {
+              "name": "Kalista",
+              "games": 4,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:c337b338-05be-5e22-821e-dd3786677a75",
+          "name": "Flandre",
+          "team": "BLG",
+          "role": "TOP",
+          "games": 10,
+          "wins": 7,
+          "winRate": 70,
+          "kills": 2.6,
+          "deaths": 2,
+          "assists": 6.8,
+          "firstGame": "2026-08-12",
+          "lastGame": "2026-08-23",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/9a/9ac8a89eaf0fb3039f8477415d52ac0f99c22f3e1923bc0a778a7dc4a33ad08e.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/2563-flandre",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.7,
+            "csm": 8.18,
+            "gpm": 390.58,
+            "dpm": 479.61,
+            "damageShare": 16.5,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 45.4,
+            "vision": 1.63
+          },
+          "champions": [
+            {
+              "name": "Rumble",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Ambessa",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Jayce",
+              "games": 2,
+              "wins": 1
+            },
+            {
+              "name": "Olaf",
+              "games": 1,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:0d5461f3-fbb2-549d-916a-928fd87bc5a0",
+          "name": "Wenbo",
+          "team": "BLG",
+          "role": "TOP",
+          "games": 20,
+          "wins": 14,
+          "winRate": 70,
+          "kills": 3.05,
+          "deaths": 2.7,
+          "assists": 6.1,
+          "firstGame": "2026-07-23",
+          "lastGame": "2026-08-08",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/2f/2f84b2460ef543aae94c975718034646a0594d530eddd228786695c7792d466b.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/20970-wenbo",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.39,
+            "csm": 8.3,
+            "gpm": 396.91,
+            "dpm": 607.84,
+            "damageShare": 21.2,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 46.300000000000004,
+            "vision": 1.16
+          },
+          "champions": [
+            {
+              "name": "Ambessa",
+              "games": 5,
+              "wins": 3
+            },
+            {
+              "name": "Yorick",
+              "games": 4,
+              "wins": 4
+            },
+            {
+              "name": "K'Sante",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Jayce",
+              "games": 2,
+              "wins": 2
+            }
+          ]
+        },
+        {
+          "id": "dpm:bd3a1cd6-50b4-5064-b0d0-9ef86d3005ce",
+          "name": "Bin",
+          "team": "BLG",
+          "role": "TOP",
+          "games": 16,
+          "wins": 11,
+          "winRate": 68.8,
+          "kills": 3,
+          "deaths": 2.56,
+          "assists": 5.13,
+          "firstGame": "2026-08-20",
+          "lastGame": "2026-09-13",
+          "timelineGames": 0,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/65/65b314a256ed5b34b1119020f2bf5edecad7f426261b432618419dbaac8d16a4.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9649-bin",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.17,
+            "csm": 8.27,
+            "gpm": 390.16,
+            "dpm": 506.51,
+            "damageShare": 19.6,
+            "gd15": null,
+            "csd15": null,
+            "xpd15": null,
+            "kp": 50,
+            "vision": 1.15
+          },
+          "champions": [
+            {
+              "name": "Camille",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Rumble",
+              "games": 2,
+              "wins": 2
+            },
+            {
+              "name": "Jayce",
+              "games": 2,
+              "wins": 1
+            },
+            {
+              "name": "Ambessa",
+              "games": 2,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:7ca1047f-c074-5bb7-aef3-278902f9e59e",
+          "name": "Jojopyun",
+          "team": "MKOI",
+          "role": "MID",
+          "games": 37,
+          "wins": 19,
+          "winRate": 51.4,
+          "kills": 3.97,
+          "deaths": 2.51,
+          "assists": 5.89,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/b4/b46a3bd9e9931eda5caf19a1cbf699db395b0cb0bf0aec61ed753d9d3c57b4fb.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/13058-jojopyun",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.92,
+            "csm": 9.44,
+            "gpm": 420.13,
+            "dpm": 704.31,
+            "damageShare": 26.1,
+            "gd15": 214,
+            "csd15": 4.27,
+            "xpd15": 117,
+            "kp": 65.2,
+            "vision": 1.32
+          },
+          "champions": [
+            {
+              "name": "Ryze",
+              "games": 7,
+              "wins": 3
+            },
+            {
+              "name": "Ahri",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Orianna",
+              "games": 4,
+              "wins": 1
+            },
+            {
+              "name": "Viktor",
+              "games": 4,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:0ae5e854-8d27-5818-bf8e-374d02ed5c8f",
+          "name": "Elyoya",
+          "team": "MKOI",
+          "role": "JGL",
+          "games": 37,
+          "wins": 19,
+          "winRate": 51.4,
+          "kills": 2.95,
+          "deaths": 2.43,
+          "assists": 8.49,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/15/15e1fee7a32b60f89df2f33e03a0ea03a82f326509d3b0162cc383d2926c696c.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9097-elyoya",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 4.7,
+            "csm": 7.08,
+            "gpm": 397.3,
+            "dpm": 451.83,
+            "damageShare": 16.8,
+            "gd15": 71,
+            "csd15": -0.38,
+            "xpd15": 11,
+            "kp": 75.5,
+            "vision": 1.81
+          },
+          "champions": [
+            {
+              "name": "Lee Sin",
+              "games": 8,
+              "wins": 5
+            },
+            {
+              "name": "Pantheon",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Vi",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Nocturne",
+              "games": 4,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:d8481b21-6429-5dfb-b894-10711084353e",
+          "name": "Alvaro",
+          "team": "MKOI",
+          "role": "SUP",
+          "games": 37,
+          "wins": 19,
+          "winRate": 51.4,
+          "kills": 0.65,
+          "deaths": 3.03,
+          "assists": 10.3,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/3a/3a2ec8226302376be8d51a9e141422413e89ecc2f1479a06cd6d0caf674af6a5.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/8844-alvaro",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.62,
+            "csm": 1.15,
+            "gpm": 267.95,
+            "dpm": 190.54,
+            "damageShare": 7.1,
+            "gd15": 104,
+            "csd15": 2.62,
+            "xpd15": 144,
+            "kp": 72.3,
+            "vision": 4.57
+          },
+          "champions": [
+            {
+              "name": "Seraphine",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Bard",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Renata Glasc",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Leona",
+              "games": 3,
+              "wins": 3
+            }
+          ]
+        },
+        {
+          "id": "dpm:d019ff81-88db-5a37-90fe-8b9660c69345",
+          "name": "Myrwn",
+          "team": "MKOI",
+          "role": "TOP",
+          "games": 37,
+          "wins": 19,
+          "winRate": 51.4,
+          "kills": 2.57,
+          "deaths": 2.97,
+          "assists": 5.81,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/2d/2d5984df379ef865fb2a30e312f3ab7be478f3d2fe4a084b0fb20cac2fc52356.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/10695-myrwn",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 2.82,
+            "csm": 8.24,
+            "gpm": 376.4,
+            "dpm": 610.17,
+            "damageShare": 22.6,
+            "gd15": 51,
+            "csd15": -0.78,
+            "xpd15": 64,
+            "kp": 55.400000000000006,
+            "vision": 1.42
+          },
+          "champions": [
+            {
+              "name": "Ambessa",
+              "games": 8,
+              "wins": 4
+            },
+            {
+              "name": "Jayce",
+              "games": 6,
+              "wins": 4
+            },
+            {
+              "name": "Galio",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Rumble",
+              "games": 3,
+              "wins": 1
+            }
+          ]
+        },
+        {
+          "id": "dpm:18e32f7d-4119-57c7-abce-1e798dd7f1fc",
+          "name": "Supa",
+          "team": "MKOI",
+          "role": "ADC",
+          "games": 37,
+          "wins": 19,
+          "winRate": 51.4,
+          "kills": 5,
+          "deaths": 2.68,
+          "assists": 4.54,
+          "firstGame": "2026-07-24",
+          "lastGame": "2026-09-20",
+          "timelineGames": 37,
+          "photo": "https://assets.dpm.lol/player-assets/sha256/cf/cfab62cc0e27f5da3c7af04c6271939345cf62b52ad005dc79a819c14e884ba5.webp",
+          "source": "DPM.LOL",
+          "sourceUrl": "https://dpm.lol/esports/players/9212-supa",
+          "period": "近 3 個月",
+          "metrics": {
+            "kda": 3.57,
+            "csm": 9.94,
+            "gpm": 500.45,
+            "dpm": 739.81,
+            "damageShare": 27.400000000000002,
+            "gd15": 247,
+            "csd15": 2.46,
+            "xpd15": 61,
+            "kp": 63,
+            "vision": 1.27
+          },
+          "champions": [
+            {
+              "name": "Ezreal",
+              "games": 8,
+              "wins": 4
+            },
+            {
+              "name": "Ashe",
+              "games": 4,
+              "wins": 3
+            },
+            {
+              "name": "Kalista",
+              "games": 4,
+              "wins": 2
+            },
+            {
+              "name": "Caitlyn",
+              "games": 3,
+              "wins": 2
+            }
+          ]
+        }
+      ],
+      "sourceUrl": "https://dpm.lol/esports/stats/players",
+      "fetchedAt": "2026-10-21T08:06:23.870Z"
+    }
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://esports.op.gg/matches",
+  "tournamentId": "1442",
+  "fetchedAt": "2026-10-22T02:09:07.685548+00:00",
+  "matches": [
+    {
+      "id": "32722",
+      "tournamentId": "1442",
+      "name": "Round 1: GEN vs IG",
+      "scheduledAt": "2026-10-23T17:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "Gen.G",
+        "acronym": "GEN"
+      },
+      "awayTeam": {
+        "name": "Invictus Gaming",
+        "acronym": "IG"
+      },
+      "url": "https://esports.op.gg/matches/32722/2026-10-24"
+    },
+    {
+      "id": "32724",
+      "tournamentId": "1442",
+      "name": "Round 1: HLE vs TES",
+      "scheduledAt": "2026-10-23T18:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "Hanwha Life Esports",
+        "acronym": "HLE"
+      },
+      "awayTeam": {
+        "name": "Top Esports",
+        "acronym": "TES"
+      },
+      "url": "https://esports.op.gg/matches/32724/2026-10-24"
+    },
+    {
+      "id": "32726",
+      "tournamentId": "1442",
+      "name": "Round 1: BLG vs MKOI",
+      "scheduledAt": "2026-10-23T19:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "Bilibili Gaming",
+        "acronym": "BLG"
+      },
+      "awayTeam": {
+        "name": "Movistar KOI",
+        "acronym": "MKOI"
+      },
+      "url": "https://esports.op.gg/matches/32726/2026-10-24"
+    },
+    {
+      "id": "32723",
+      "tournamentId": "1442",
+      "name": "Round 1: AL vs KC",
+      "scheduledAt": "2026-10-23T20:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "Anyone's Legend",
+        "acronym": "AL"
+      },
+      "awayTeam": {
+        "name": "Karmine Corp",
+        "acronym": "KC"
+      },
+      "url": "https://esports.op.gg/matches/32723/2026-10-24"
+    },
+    {
+      "id": "32721",
+      "tournamentId": "1442",
+      "name": "Round 1: G2 vs DK",
+      "scheduledAt": "2026-10-23T21:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "G2 Esports",
+        "acronym": "G2"
+      },
+      "awayTeam": {
+        "name": "Dplus KIA",
+        "acronym": "DK"
+      },
+      "url": "https://esports.op.gg/matches/32721/2026-10-24"
+    },
+    {
+      "id": "32720",
+      "tournamentId": "1442",
+      "name": "Round 1: TL vs CFO",
+      "scheduledAt": "2026-10-23T22:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "Team Liquid",
+        "acronym": "TL"
+      },
+      "awayTeam": {
+        "name": "CTBC Flying Oyster",
+        "acronym": "CFO"
+      },
+      "url": "https://esports.op.gg/matches/32720/2026-10-24"
+    },
+    {
+      "id": "32717",
+      "tournamentId": "1442",
+      "name": "Round 1: LOS vs T1",
+      "scheduledAt": "2026-10-23T23:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "LOS",
+        "acronym": "LOS"
+      },
+      "awayTeam": {
+        "name": "T1",
+        "acronym": "T1"
+      },
+      "url": "https://esports.op.gg/matches/32717/2026-10-24"
+    },
+    {
+      "id": "32718",
+      "tournamentId": "1442",
+      "name": "Round 1: TSW vs LY",
+      "scheduledAt": "2026-10-24T00:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": {
+        "name": "Team Secret Whales",
+        "acronym": "TSW"
+      },
+      "awayTeam": {
+        "name": "LYON",
+        "acronym": "LY"
+      },
+      "url": "https://esports.op.gg/matches/32718/2026-10-24"
+    },
+    {
+      "id": "32719",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T17:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32719/2026-10-25"
+    },
+    {
+      "id": "32725",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T18:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32725/2026-10-25"
+    },
+    {
+      "id": "32749",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T19:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32749/2026-10-25"
+    },
+    {
+      "id": "32747",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T20:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32747/2026-10-25"
+    },
+    {
+      "id": "32748",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T21:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32748/2026-10-25"
+    },
+    {
+      "id": "32745",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T22:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32745/2026-10-25"
+    },
+    {
+      "id": "32746",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-24T23:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32746/2026-10-25"
+    },
+    {
+      "id": "32743",
+      "tournamentId": "1442",
+      "name": "Round 2: TBD vs TBD",
+      "scheduledAt": "2026-10-25T00:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32743/2026-10-25"
+    },
+    {
+      "id": "32744",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-25T17:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32744/2026-10-26"
+    },
+    {
+      "id": "32742",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-25T18:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32742/2026-10-26"
+    },
+    {
+      "id": "32741",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-25T19:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32741/2026-10-26"
+    },
+    {
+      "id": "32740",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-25T22:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32740/2026-10-26"
+    },
+    {
+      "id": "32739",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-26T17:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32739/2026-10-27"
+    },
+    {
+      "id": "32738",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-26T18:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 1,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32738/2026-10-27"
+    },
+    {
+      "id": "32737",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-26T19:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32737/2026-10-27"
+    },
+    {
+      "id": "32735",
+      "tournamentId": "1442",
+      "name": "Round 3: TBD vs TBD",
+      "scheduledAt": "2026-10-26T22:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32735/2026-10-27"
+    },
+    {
+      "id": "32736",
+      "tournamentId": "1442",
+      "name": "Round 4: TBD vs TBD",
+      "scheduledAt": "2026-10-28T20:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32736/2026-10-29"
+    },
+    {
+      "id": "32732",
+      "tournamentId": "1442",
+      "name": "Round 4: TBD vs TBD",
+      "scheduledAt": "2026-10-28T23:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32732/2026-10-29"
+    },
+    {
+      "id": "32734",
+      "tournamentId": "1442",
+      "name": "Round 4: TBD vs TBD",
+      "scheduledAt": "2026-10-29T20:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32734/2026-10-30"
+    },
+    {
+      "id": "32733",
+      "tournamentId": "1442",
+      "name": "Round 4: TBD vs TBD",
+      "scheduledAt": "2026-10-29T23:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32733/2026-10-30"
+    },
+    {
+      "id": "32731",
+      "tournamentId": "1442",
+      "name": "Round 4: TBD vs TBD",
+      "scheduledAt": "2026-10-30T20:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32731/2026-10-31"
+    },
+    {
+      "id": "32730",
+      "tournamentId": "1442",
+      "name": "Round 4: TBD vs TBD",
+      "scheduledAt": "2026-10-30T23:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32730/2026-10-31"
+    },
+    {
+      "id": "32729",
+      "tournamentId": "1442",
+      "name": "Round 5: TBD vs TBD",
+      "scheduledAt": "2026-10-31T17:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32729/2026-11-01"
+    },
+    {
+      "id": "32728",
+      "tournamentId": "1442",
+      "name": "Round 5: TBD vs TBD",
+      "scheduledAt": "2026-10-31T20:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32728/2026-11-01"
+    },
+    {
+      "id": "32727",
+      "tournamentId": "1442",
+      "name": "Round 5: TBD vs TBD",
+      "scheduledAt": "2026-10-31T23:00:00.000Z",
+      "status": "not_started",
+      "numberOfGames": 3,
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeTeam": null,
+      "awayTeam": null,
+      "url": "https://esports.op.gg/matches/32727/2026-11-01"
+    }
+  ]
+}
